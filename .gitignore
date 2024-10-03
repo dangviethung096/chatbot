@@ -1,0 +1,7 @@
+backend.config.yaml
+core.config.yaml
+go.sum
+zalo.oauth.json
+.vscode
+__debug*
+ssl
